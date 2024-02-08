@@ -1,0 +1,5 @@
+Socket -> client server connection
+Redis -> pub sub
+Node -> consumer producer
+Prisma -> syncing database and display inserted database data 
+Kafka -> persistance data
